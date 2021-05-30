@@ -1,0 +1,19 @@
+{
+  "name": "doublemoon-trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.0.32"
+  }
+}

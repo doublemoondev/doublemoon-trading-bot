@@ -1,0 +1,10 @@
+/node_modules/
+/build/
+
+node_modules
+
+#Envs
+.env
+
+#VSCode 
+.vscode/settings.json
